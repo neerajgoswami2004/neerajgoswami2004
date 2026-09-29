@@ -1,5 +1,20 @@
-# 💫 About Me:
-- 🎓 Pursuing BCA from IGNOU<br>- 📊 Studying Data Science at Kodvidya Academy, Faridabad<br>- 🐍 Strong interest in Python & Data Analytics<br>- 🗄️ Working with SQL / MySQL<br>- 📈 Interested in Power BI & Data Visualization<br>- 🧹 Experienced with Data Cleaning & Exploratory Data Analysis<br>- 💡 Love solving problems using logic and data<br>- 📚 Currently improving my Data Science & Analytics skills<br>- 🎯 Goal: Build a strong career in Data Science / Data Analytics / MIS<br>
+ ## 💫 About Me
+
+🎓 **BCA Student | IGNOU**
+
+🤖 **Learning:** Data Science with Generative AI & Machine Learning  
+💻 **Developing Skills:** Junior Software Development with AI  
+🐍 **Programming:** Python  
+🗄️ **Database:** SQL | MySQL  
+📊 **Analytics:** Data Analysis | Data Cleaning | EDA  
+📈 **Visualization:** Power BI | Data Visualization  
+🧠 **Interests:** AI | Machine Learning | Data Science | Software Development  
+
+💡 I enjoy turning data and ideas into practical solutions using **code, logic, and analytical thinking**.
+
+🚀 **Currently:** Building projects, strengthening my programming fundamentals, and continuously exploring AI & Data Science.
+
+🎯 **Career Goal:** To build a strong career in **Data Science, Data Analytics, AI & Software Development**.
 
 
 ## 🌐 Socials:
