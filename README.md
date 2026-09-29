@@ -1,8 +1,8 @@
  ## 💫 About Me
 
-🎓 **BCA Student | IGNOU**
+🎓 **BCA Student | *
 
-🤖 **Learning:** Data Science with Generative AI & Machine Learning  
+🤖 ** Data Science with Generative AI & Machine Learning  
 💻 **Developing Skills:** Junior Software Development with AI  
 🐍 **Programming:** Python  
 🗄️ **Database:** SQL | MySQL  
